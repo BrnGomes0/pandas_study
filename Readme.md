@@ -1,4 +1,4 @@
-# Getting Started this project
+# Getting Started
 
 
 #### Creating a amb venv
